@@ -1,0 +1,31 @@
+Keyword	Category	Subcategory	AssignmentGroup
+vpn	Network	VPN	Network Operations
+virtual private network	Network	VPN	Network Operations
+wifi	Network	WiFi	Network Operations
+wireless	Network	WiFi	Network Operations
+internet	Network	Internet	Network Operations
+network	Network	Connectivity	Network Operations
+dns	Network	DNS	Network Operations
+outlook	Messaging	Outlook	Messaging Team
+email	Messaging	Email Delivery	Messaging Team
+mailbox	Messaging	Mailbox	Messaging Team
+exchange	Messaging	Email Delivery	Messaging Team
+password	Identity	Password Reset	IAM Team
+account locked	Identity	Account Lockout	IAM Team
+lockout	Identity	Account Lockout	IAM Team
+mfa	Identity	MFA	IAM Team
+authentication	Identity	MFA	IAM Team
+access request	Identity	Access Management	IAM Team
+permission	Identity	Access Management	IAM Team
+teams	Collaboration	Teams Client	EUC Team
+microphone	Collaboration	Teams Audio	EUC Team
+camera	Collaboration	Teams Video	EUC Team
+onedrive	Collaboration	OneDrive	EUC Team
+sharepoint	Collaboration	SharePoint	EUC Team
+laptop	Hardware	Laptop	Desktop Support
+desktop	Hardware	Desktop	Desktop Support
+printer	Hardware	Printer	Desktop Support
+keyboard	Hardware	Peripheral	Desktop Support
+monitor	Hardware	Monitor	Desktop Support
+blue screen	Hardware	Laptop	Desktop Support
+bsod	Hardware	Laptop	Desktop Support

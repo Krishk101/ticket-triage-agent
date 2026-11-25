@@ -1,0 +1,31 @@
+TicketID	Subject	Description	Category	Subcategory	AssignmentGroup	Impact	Urgency	Priority
+INC001	VPN not connecting	Unable to connect to corporate VPN after password change	Network	VPN	Network Operations	Medium	High	P2
+INC002	VPN authentication failed	VPN login fails with authentication error	Network	VPN	Network Operations	Medium	High	P2
+INC003	WiFi disconnecting frequently	Laptop loses WiFi connectivity every few minutes	Network	WiFi	Network Operations	Medium	Medium	P3
+INC004	Unable to access internet	No internet connectivity on office network	Network	Internet	Network Operations	High	High	P1
+INC005	DNS resolution issue	Internal application URLs not resolving	Network	DNS	Network Operations	High	Medium	P2
+INC006	Outlook crashes on launch	Outlook closes immediately after opening	Messaging	Outlook	Messaging Team	Medium	Medium	P3
+INC007	Emails stuck in Outbox	Unable to send emails from Outlook	Messaging	Email Delivery	Messaging Team	Medium	Medium	P3
+INC008	Mailbox full warning	User unable to receive new emails	Messaging	Mailbox	Messaging Team	Medium	Low	P4
+INC009	Shared mailbox inaccessible	Cannot open shared mailbox permissions issue	Messaging	Mailbox	Messaging Team	Medium	Medium	P3
+INC010	Email delivery delayed	External emails arriving several hours late	Messaging	Email Delivery	Messaging Team	High	Medium	P2
+INC011	Password reset request	User forgot Windows password	Identity	Password Reset	IAM Team	Low	Medium	P4
+INC012	Account locked out	Multiple failed logins caused lockout	Identity	Account Lockout	IAM Team	Medium	High	P2
+INC013	MFA code not received	Authentication code not reaching mobile device	Identity	MFA	IAM Team	Medium	High	P2
+INC014	New user account creation	Create account for new employee	Identity	User Provisioning	IAM Team	Low	Low	P4
+INC015	Permission access request	Grant access to business application	Identity	Access Management	IAM Team	Low	Medium	P4
+INC016	Teams microphone not working	Teams unable to detect microphone during meetings	Collaboration	Teams Audio	EUC Team	Medium	Medium	P3
+INC017	Teams camera issue	Video not working in Teams calls	Collaboration	Teams Video	EUC Team	Medium	Medium	P3
+INC018	OneDrive sync failure	Files are not syncing to OneDrive cloud storage	Collaboration	OneDrive	EUC Team	Medium	Medium	P3
+INC019	SharePoint site inaccessible	Users unable to access department SharePoint site	Collaboration	SharePoint	EUC Team	High	Medium	P2
+INC020	Teams application freezing	Teams becomes unresponsive during meetings	Collaboration	Teams Client	EUC Team	Medium	Medium	P3
+INC021	Laptop blue screen	System crashes with blue screen several times daily	Hardware	Laptop	Desktop Support	High	High	P1
+INC022	Printer not printing	Network printer not responding to print jobs	Hardware	Printer	Desktop Support	Low	Medium	P4
+INC023	Laptop overheating	Device becomes hot and shuts down unexpectedly	Hardware	Laptop	Desktop Support	High	Medium	P2
+INC024	Keyboard malfunction	Several keys stopped working on laptop keyboard	Hardware	Peripheral	Desktop Support	Low	Medium	P4
+INC025	Monitor not detected	External display not recognized by system	Hardware	Monitor	Desktop Support	Low	Medium	P4
+INC026	Software installation request	Request to install Adobe Acrobat	Software	Installation	Software Support	Low	Low	P4
+INC027	License activation failure	Unable to activate licensed software	Software	Licensing	Software Support	Medium	Medium	P3
+INC028	Application compatibility issue	Business application fails after OS update	Software	Application Support	Software Support	Medium	High	P2
+INC029	Unable to access file server	RDP and file share access denied	Server Access	File Share	Server Support	High	High	P1
+INC030	RDP connection failure	Unable to establish remote desktop session	Server Access	RDP	Server Support	High	Medium	P2

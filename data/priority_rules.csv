@@ -1,0 +1,10 @@
+Impact	Urgency	Priority	Description
+High	High	P1	Critical business impact requiring immediate attention
+High	Medium	P2	Major impact affecting business operations
+High	Low	P3	Significant impact but low urgency
+Medium	High	P2	Moderate impact with urgent resolution needed
+Medium	Medium	P3	Standard operational issue
+Medium	Low	P4	Low urgency operational issue
+Low	High	P3	Minor impact but urgent request
+Low	Medium	P4	Minor issue with moderate urgency
+Low	Low	P4	Routine service request
